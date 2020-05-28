@@ -3,3 +3,9 @@
 dist/
 wideq_state.json
 __pycache__
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/wideq.iml
+.idea/workspace.xml
