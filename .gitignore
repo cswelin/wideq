@@ -10,3 +10,6 @@ __pycache__
 .idea/wideq.iml
 .idea/workspace.xml
 .idea/misc.xml
+.vscode/
+# Ignore Mac system files
+.DS_Store
